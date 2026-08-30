@@ -16,7 +16,7 @@ The **🛡️ Rust External Evicted V2** is the most trusted and reliable extern
 </div>
 
 <div align="center">
-<img alt="Rust External Evicted V2 Interface" src="https://raw.githubusercontent.com/laplaplaplas/download/main/assets/evicted_v2_shooter.svg" />
+<img alt="Rust External Evicted V2 Interface" src="https://raw.githubusercontent.com/laplaplaplas/download/main/assets/evicted_menu_shooter.png" />
 </div>
 
 With Easy Anti-Cheat (EAC) operating at kernel level and constantly evolving, internal cheats are detected within days or even hours. The **🛡️ Rust External Evicted V2** solves this problem by working entirely outside the game process—no memory injection, no DLL files, no detectable signatures.
